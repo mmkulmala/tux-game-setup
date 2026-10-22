@@ -108,8 +108,8 @@ A complete Linux game development boilerplate optimized for CachyOS using Nim, R
 
 2. Make the setup script executable and run it:
    ```bash
-   chmod +x setup_env.sh
-   ./setup_env.sh
+   chmod +x cachyos_env_setup.sh
+   ./cachyos_env_setup.sh
    ```
 
 3. Open the project in VS Code:
